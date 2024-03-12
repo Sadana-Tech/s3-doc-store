@@ -1,4 +1,4 @@
-package com.utkrashta.model;
+package com.utkrashta.entity;
 
 
 import jakarta.persistence.Column;
